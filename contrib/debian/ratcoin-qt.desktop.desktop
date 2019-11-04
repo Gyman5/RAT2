@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ratcoin
+Comment=Desktop allet for ratcoin Cryptocurrency
+Exec=ratcoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/ratcoin128.png
+MimeType=x-scheme-handler/ratcoin;
+Categories=Office;Finance;
+StartupWMClass=ratcoin-qt
+Name[en_US]=ratcoin-qt.desktop

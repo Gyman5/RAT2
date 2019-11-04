@@ -1,0 +1,11 @@
+usr/local/bin/ratcoin-qt usr/bin
+share/pixmaps/ratcoin16.png usr/share/pixmaps
+share/pixmaps/ratcoin32.png usr/share/pixmaps
+share/pixmaps/ratcoin128.png usr/share/pixmaps
+share/pixmaps/ratcoin256.png usr/share/pixmaps
+share/pixmaps/ratcoin-testnet32.png usr/share/pixmaps
+share/pixmaps/ratcoin-testnet128.png usr/share/pixmaps
+share/pixmaps/ratcoin-testnet256.png usr/share/pixmaps
+debian/ratcoin-qt.desktop usr/share/applications
+debian/ratcoin-testnet-qt.desktop usr/share/applications
+debian/ratcoin-qt.protocol usr/share/kde4/services/

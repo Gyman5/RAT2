@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ratcoin (testnet)
+Comment=Desktop allet for ratcoin Cryptocurrency (testnet)
+Exec=ratcoin-qt -testnet %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/ratcoin-testnet128.png
+MimeType=x-scheme-handler/ratcoin;
+Categories=Application;Network;
+Name[en_US]=ratcoin-testnet-qt.desktop

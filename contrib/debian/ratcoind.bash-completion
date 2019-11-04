@@ -1,0 +1,3 @@
+contrib/ratcoind.bash-completion	ratcoind
+contrib/ratcoin-cli.bash-completion	ratcoin-cli
+contrib/ratcoin-tx.bash-completion	ratcoin-tx
